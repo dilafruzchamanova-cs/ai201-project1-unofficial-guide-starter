@@ -14,7 +14,7 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
----
+--- /Users/dilafruzchamanova/ai201-project1-unofficial-guide-starter/requirements.txt
 
 ## Document Sources
 
