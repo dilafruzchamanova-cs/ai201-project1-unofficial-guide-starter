@@ -64,7 +64,7 @@ with gr.Blocks(title="The Unofficial Guide — Alfred University") as demo:
     ### Example questions to try:
     - Does Lynn Petrillo give good feedback on writing assignments?
     - Is Juliana Gray a harsh grader?
-    - Is Joseph Petrillo good for students who struggle with math?
+    - Is Joseph Petrillo's calculus class hard?
     - What do students say about Pam Schultz's lectures?
     - Is Sarah Cote a good choice for Writing 1 or Writing 2?
     """)
